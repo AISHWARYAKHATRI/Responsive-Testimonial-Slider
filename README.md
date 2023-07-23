@@ -3,3 +3,7 @@ The "Index" component is a React carousel that displays a set of images and asso
 ## Demo 
 
 https://codepen.io/aishwaryakhatri/pen/vYQaavY
+
+
+https://github.com/AISHWARYAKHATRI/Responsive-Testimonial-Slider/assets/75491104/e9f7a1cd-797e-4ca4-ad0e-a932923bc579
+
